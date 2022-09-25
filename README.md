@@ -1,4 +1,4 @@
-# Android Project 3 - *Name of App Here*
+# Android Project 3 - MovieList
 
 Submitted by: Wen Bo
 MovieList is a movie browsing app that allows users to browse movies currently playing in theaters.
